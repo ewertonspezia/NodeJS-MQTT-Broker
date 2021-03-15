@@ -1,0 +1,21 @@
+{
+  "name": "mqtt_broker",
+  "version": "1.0.0",
+  "description": "mqtt broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "javascript"
+  ],
+  "author": "ewertonspezia",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.6",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.2"
+  }
+}
